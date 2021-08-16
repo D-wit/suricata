@@ -1,0 +1,305 @@
+08/17/2021-03:03:21.053980  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58008 -> 175.213.35.39:80
+08/17/2021-03:03:21.158143  [**] [1:10001:1] gilgil.net access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58008 -> 175.213.35.39:80
+08/17/2021-03:03:26.943802  [**] [1:10017:1] twitter.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:45110 -> 151.101.88.157:443
+08/17/2021-03:03:28.354290  [**] [1:10015:1] facebook.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:56920 -> 157.240.215.35:443
+08/17/2021-03:03:29.672153  [**] [1:10005:1] google.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:42490 -> 216.58.220.130:443
+08/17/2021-03:03:29.681839  [**] [1:10005:1] google.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:40390 -> 142.250.207.78:443
+08/17/2021-03:03:44.426573  [**] [1:10007:1] naver.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:41966 -> 125.209.222.142:443
+08/17/2021-03:03:44.978813  [**] [1:10007:1] naver.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:59590 -> 223.130.193.11:443
+08/17/2021-03:03:45.014519  [**] [1:10007:1] naver.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:52822 -> 210.89.168.85:443
+08/17/2021-03:03:45.016327  [**] [1:10007:1] naver.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37296 -> 175.158.5.161:443
+08/17/2021-03:03:45.056840  [**] [1:10007:1] naver.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:33424 -> 210.89.168.70:443
+08/17/2021-03:03:45.091191  [**] [1:10007:1] naver.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36070 -> 210.89.172.40:443
+08/17/2021-03:03:45.276507  [**] [1:10007:1] naver.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:53264 -> 210.89.168.165:443
+08/17/2021-03:03:46.663241  [**] [1:10009:1] youtube.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:57240 -> 172.217.31.174:443
+08/17/2021-03:03:51.222317  [**] [1:10011:1] samsung.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:51226 -> 23.212.12.29:443
+08/17/2021-03:03:51.557912  [**] [1:10011:1] samsung.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:51232 -> 23.212.12.29:443
+08/17/2021-03:03:52.469775  [**] [1:10007:1] naver.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:51290 -> 125.209.234.101:443
+08/17/2021-03:03:53.107282  [**] [1:10015:1] facebook.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:57062 -> 157.240.215.35:443
+08/17/2021-03:03:53.109973  [**] [1:10015:1] facebook.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:57060 -> 157.240.215.35:443
+08/17/2021-03:03:56.337214  [**] [1:10013:1] microsoft.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:50194 -> 23.212.13.232:443
+08/17/2021-03:03:56.918647  [**] [1:10013:1] microsoft.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:53404 -> 3.115.143.152:443
+08/17/2021-03:03:57.139905  [**] [1:10013:1] microsoft.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:55758 -> 52.231.207.240:443
+08/17/2021-03:03:57.571252  [**] [1:10013:1] microsoft.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:43536 -> 40.77.226.250:443
+08/17/2021-03:03:58.279707  [**] [1:10013:1] microsoft.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:43546 -> 40.77.226.250:443
+08/17/2021-03:03:58.284396  [**] [1:10013:1] microsoft.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:43544 -> 40.77.226.250:443
+08/17/2021-03:04:00.504821  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:51676 -> 52.85.230.228:443
+08/17/2021-03:04:01.468875  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:46852 -> 54.230.168.76:443
+08/17/2021-03:04:01.470852  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:46854 -> 54.230.168.76:443
+08/17/2021-03:04:01.473333  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:46856 -> 54.230.168.76:443
+08/17/2021-03:04:01.504413  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:46860 -> 54.230.168.76:443
+08/17/2021-03:04:01.621284  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:46864 -> 54.230.168.76:443
+08/17/2021-03:04:01.639355  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:46866 -> 54.230.168.76:443
+08/17/2021-03:04:01.645198  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:46868 -> 54.230.168.76:443
+08/17/2021-03:04:01.655946  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:46872 -> 54.230.168.76:443
+08/17/2021-03:04:01.663349  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:46876 -> 54.230.168.76:443
+08/17/2021-03:04:01.667037  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:46874 -> 54.230.168.76:443
+08/17/2021-03:04:01.672402  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:46878 -> 54.230.168.76:443
+08/17/2021-03:04:01.714158  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:46880 -> 54.230.168.76:443
+08/17/2021-03:04:01.715092  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:46882 -> 54.230.168.76:443
+08/17/2021-03:04:01.737667  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:46892 -> 54.230.168.76:443
+08/17/2021-03:04:01.766434  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:46894 -> 54.230.168.76:443
+08/17/2021-03:04:02.402000  [**] [1:10011:1] samsung.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:47276 -> 3.113.78.189:443
+08/17/2021-03:04:02.513775  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:57508 -> 54.160.192.143:443
+08/17/2021-03:04:02.515811  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:39520 -> 52.94.236.45:443
+08/17/2021-03:04:02.516734  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:39516 -> 52.94.236.45:443
+08/17/2021-03:04:03.497740  [**] [1:10021:1] github.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:57910 -> 15.164.81.167:443
+08/17/2021-03:04:04.185527  [**] [1:10021:1] github.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:50322 -> 54.180.75.25:443
+08/17/2021-03:04:05.576246  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:38250 -> 54.239.27.88:443
+08/17/2021-03:04:06.470134  [**] [1:10005:1] google.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58748 -> 216.58.220.131:443
+08/17/2021-03:04:06.588230  [**] [1:10019:1] amazon.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:53888 -> 52.46.135.211:443
+08/17/2021-03:04:06.767832  [**] [1:10015:1] facebook.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:57286 -> 157.240.215.35:443
+08/17/2021-03:04:07.234800  [**] [1:10005:1] google.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:42880 -> 216.58.220.130:443
+08/17/2021-03:04:09.801705  [**] [1:10023:1] reddit.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:44620 -> 151.101.229.140:443
+08/17/2021-03:04:10.540210  [**] [1:10013:1] microsoft.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:50448 -> 23.212.13.232:443
+08/17/2021-03:04:12.212015  [**] [1:10013:1] microsoft.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:48696 -> 104.109.241.178:443
+08/17/2021-03:04:12.380217  [**] [1:10013:1] microsoft.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:41498 -> 54.168.158.38:443
+08/17/2021-03:04:13.268532  [**] [1:10023:1] reddit.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:44674 -> 151.101.229.140:443
+08/17/2021-03:04:13.893318  [**] [1:10023:1] reddit.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:44682 -> 151.101.229.140:443
+08/17/2021-03:04:14.324914  [**] [1:10023:1] reddit.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:44688 -> 151.101.229.140:443
+08/17/2021-03:04:14.543338  [**] [1:10025:1] wikipedia.org TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:43390 -> 103.102.166.224:443
+08/17/2021-03:04:16.336412  [**] [1:10013:1] microsoft.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:56058 -> 52.231.207.240:443
+08/17/2021-03:04:16.386929  [**] [1:10027:1] bing.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:47128 -> 13.107.21.200:443
+08/17/2021-03:04:16.765109  [**] [1:10013:1] microsoft.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:43832 -> 40.77.226.250:443
+08/17/2021-03:04:17.467216  [**] [1:10013:1] microsoft.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:43840 -> 40.77.226.250:443
+08/17/2021-03:04:17.924210  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37080 -> 13.107.21.200:80
+08/17/2021-03:04:18.112899  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37086 -> 13.107.21.200:80
+08/17/2021-03:04:18.120654  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37092 -> 13.107.21.200:80
+08/17/2021-03:04:18.133119  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:54680 -> 204.79.197.200:80
+08/17/2021-03:04:18.137019  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37080 -> 13.107.21.200:80
+08/17/2021-03:04:18.269692  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:54682 -> 204.79.197.200:80
+08/17/2021-03:04:18.276581  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37084 -> 13.107.21.200:80
+08/17/2021-03:04:18.315968  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36004 -> 23.67.53.73:80
+08/17/2021-03:04:18.327451  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36000 -> 23.67.53.73:80
+08/17/2021-03:04:18.330778  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:35996 -> 23.67.53.73:80
+08/17/2021-03:04:18.335306  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36002 -> 23.67.53.73:80
+08/17/2021-03:04:18.340367  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:35998 -> 23.67.53.73:80
+08/17/2021-03:04:18.369226  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:54682 -> 204.79.197.200:80
+08/17/2021-03:04:18.415519  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36004 -> 23.67.53.73:80
+08/17/2021-03:04:18.435118  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36002 -> 23.67.53.73:80
+08/17/2021-03:04:18.492486  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36000 -> 23.67.53.73:80
+08/17/2021-03:04:18.497514  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:35996 -> 23.67.53.73:80
+08/17/2021-03:04:18.518681  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:54686 -> 204.79.197.200:80
+08/17/2021-03:04:18.542248  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37084 -> 13.107.21.200:80
+08/17/2021-03:04:18.558327  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37084 -> 13.107.21.200:80
+08/17/2021-03:04:18.562605  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:54686 -> 204.79.197.200:80
+08/17/2021-03:04:18.562873  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37080 -> 13.107.21.200:80
+08/17/2021-03:04:18.616395  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:35998 -> 23.67.53.73:80
+08/17/2021-03:04:18.684467  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36002 -> 23.67.53.73:80
+08/17/2021-03:04:18.707453  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36000 -> 23.67.53.73:80
+08/17/2021-03:04:18.914067  [**] [1:10011:1] samsung.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:51708 -> 23.212.12.29:443
+08/17/2021-03:04:19.078940  [**] [1:10011:1] samsung.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:51714 -> 23.212.12.29:443
+08/17/2021-03:04:19.081926  [**] [1:10011:1] samsung.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:51712 -> 23.212.12.29:443
+08/17/2021-03:04:19.189808  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36004 -> 23.67.53.73:80
+08/17/2021-03:04:20.385540  [**] [1:10007:1] naver.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:33060 -> 223.130.195.31:443
+08/17/2021-03:04:20.391048  [**] [1:10007:1] naver.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:33062 -> 223.130.195.31:443
+08/17/2021-03:04:20.529366  [**] [1:10011:1] samsung.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:38490 -> 54.178.162.114:443
+08/17/2021-03:04:21.390646  [**] [1:10029:1] mozilla.org TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:46214 -> 104.18.164.34:443
+08/17/2021-03:04:21.689908  [**] [1:10029:1] mozilla.org TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:39870 -> 44.236.48.31:443
+08/17/2021-03:04:21.706651  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:54684 -> 204.79.197.200:80
+08/17/2021-03:04:22.475586  [**] [1:10005:1] google.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:51934 -> 172.217.31.132:443
+08/17/2021-03:04:22.815772  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:35998 -> 23.67.53.73:80
+08/17/2021-03:04:24.505031  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:43970 -> 173.223.140.151:443
+08/17/2021-03:04:24.593962  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:56324 -> 23.49.147.14:443
+08/17/2021-03:04:24.598312  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:35996 -> 23.67.53.73:80
+08/17/2021-03:04:24.599545  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:56322 -> 23.49.147.14:443
+08/17/2021-03:04:24.609527  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:56318 -> 23.49.147.14:443
+08/17/2021-03:04:24.680186  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:42250 -> 54.192.175.100:443
+08/17/2021-03:04:24.741738  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:46196 -> 54.192.175.93:443
+08/17/2021-03:04:24.743295  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:43994 -> 173.223.140.151:443
+08/17/2021-03:04:24.749210  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:43992 -> 173.223.140.151:443
+08/17/2021-03:04:24.811558  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:56340 -> 23.49.147.14:443
+08/17/2021-03:04:24.826643  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:56342 -> 23.49.147.14:443
+08/17/2021-03:04:24.860504  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:56346 -> 23.49.147.14:443
+08/17/2021-03:04:24.869637  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:56344 -> 23.49.147.14:443
+08/17/2021-03:04:25.640304  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:56368 -> 23.49.147.14:443
+08/17/2021-03:04:25.651752  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:56372 -> 23.49.147.14:443
+08/17/2021-03:04:25.656806  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:56370 -> 23.49.147.14:443
+08/17/2021-03:04:25.658562  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:56374 -> 23.49.147.14:443
+08/17/2021-03:04:25.658869  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:56376 -> 23.49.147.14:443
+08/17/2021-03:04:25.672955  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:44036 -> 173.223.140.151:443
+08/17/2021-03:04:25.720725  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:44040 -> 173.223.140.151:443
+08/17/2021-03:04:25.729339  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:44044 -> 173.223.140.151:443
+08/17/2021-03:04:25.733991  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:44042 -> 173.223.140.151:443
+08/17/2021-03:04:25.747058  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:44050 -> 173.223.140.151:443
+08/17/2021-03:04:25.751081  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:44054 -> 173.223.140.151:443
+08/17/2021-03:04:25.764839  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:44056 -> 173.223.140.151:443
+08/17/2021-03:04:25.777185  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:44058 -> 173.223.140.151:443
+08/17/2021-03:04:25.780532  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:44060 -> 173.223.140.151:443
+08/17/2021-03:04:25.851489  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:56406 -> 23.49.147.14:443
+08/17/2021-03:04:25.871846  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:56416 -> 23.49.147.14:443
+08/17/2021-03:04:25.899696  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:56418 -> 23.49.147.14:443
+08/17/2021-03:04:26.562214  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:44094 -> 173.223.140.151:443
+08/17/2021-03:04:26.600234  [**] [1:10033:1] toss.im TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:34636 -> 211.115.96.201:443
+08/17/2021-03:04:26.715700  [**] [1:10033:1] toss.im TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37506 -> 54.192.175.8:443
+08/17/2021-03:04:26.720460  [**] [1:10033:1] toss.im TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:54196 -> 54.230.155.50:443
+08/17/2021-03:04:26.721297  [**] [1:10033:1] toss.im TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37512 -> 54.192.175.8:443
+08/17/2021-03:04:26.730833  [**] [1:10033:1] toss.im TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37510 -> 54.192.175.8:443
+08/17/2021-03:04:26.734750  [**] [1:10033:1] toss.im TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37508 -> 54.192.175.8:443
+08/17/2021-03:04:26.781472  [**] [1:10033:1] toss.im TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:46320 -> 54.192.175.41:443
+08/17/2021-03:04:28.155898  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:44572 -> 173.223.143.61:443
+08/17/2021-03:04:28.356927  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:56688 -> 216.239.34.21:443
+08/17/2021-03:04:28.435684  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:51962 -> 23.50.18.226:443
+08/17/2021-03:04:28.505272  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:34094 -> 23.49.149.188:443
+08/17/2021-03:04:28.556563  [**] [1:10005:1] google.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:52124 -> 172.217.31.132:443
+08/17/2021-03:04:28.615889  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:55996 -> 100.24.169.197:443
+08/17/2021-03:04:28.871033  [**] [1:10015:1] facebook.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:57766 -> 157.240.215.35:443
+08/17/2021-03:04:28.992261  [**] [1:10033:1] toss.im TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:34706 -> 211.115.96.201:443
+08/17/2021-03:04:29.257581  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:38748 -> 54.178.162.114:443
+08/17/2021-03:04:30.620645  [**] [1:10035:1] minecraft.net TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:42286 -> 54.230.166.41:443
+08/17/2021-03:04:31.069346  [**] [1:10035:1] minecraft.net TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:56364 -> 111.118.1.73:443
+08/17/2021-03:04:32.627042  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:34122 -> 23.49.149.188:443
+08/17/2021-03:04:32.629025  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:34124 -> 23.49.149.188:443
+08/17/2021-03:04:32.824209  [**] [1:10013:1] microsoft.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:50890 -> 23.212.13.232:443
+08/17/2021-03:04:32.929381  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:34130 -> 23.49.149.188:443
+08/17/2021-03:04:32.933448  [**] [1:10031:1] nintendo.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:34132 -> 23.49.149.188:443
+08/17/2021-03:04:33.531039  [**] [1:10036:1] tworld.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:59700 -> 203.236.19.100:80
+08/17/2021-03:04:33.560524  [**] [1:10036:1] tworld.co.kr access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:59728 -> 203.236.19.100:80
+08/17/2021-03:04:33.585554  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58124 -> 203.236.19.100:443
+08/17/2021-03:04:33.788852  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58130 -> 203.236.19.100:443
+08/17/2021-03:04:33.831078  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58132 -> 203.236.19.100:443
+08/17/2021-03:04:33.848678  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58142 -> 203.236.19.100:443
+08/17/2021-03:04:33.879854  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58148 -> 203.236.19.100:443
+08/17/2021-03:04:33.896603  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58150 -> 203.236.19.100:443
+08/17/2021-03:04:33.914204  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58156 -> 203.236.19.100:443
+08/17/2021-03:04:33.920203  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58154 -> 203.236.19.100:443
+08/17/2021-03:04:34.000344  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58158 -> 203.236.19.100:443
+08/17/2021-03:04:34.034292  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:35426 -> 211.110.63.99:443
+08/17/2021-03:04:34.047885  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:55840 -> 211.110.63.100:443
+08/17/2021-03:04:34.055804  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:55842 -> 211.110.63.100:443
+08/17/2021-03:04:34.061051  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:55844 -> 211.110.63.100:443
+08/17/2021-03:04:34.137778  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58176 -> 203.236.19.100:443
+08/17/2021-03:04:34.270395  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58180 -> 203.236.19.100:443
+08/17/2021-03:04:34.272715  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58178 -> 203.236.19.100:443
+08/17/2021-03:04:34.274715  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58182 -> 203.236.19.100:443
+08/17/2021-03:04:34.286287  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58184 -> 203.236.19.100:443
+08/17/2021-03:04:34.293408  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58186 -> 203.236.19.100:443
+08/17/2021-03:04:34.349172  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58192 -> 203.236.19.100:443
+08/17/2021-03:04:34.350544  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58190 -> 203.236.19.100:443
+08/17/2021-03:04:34.383621  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58198 -> 203.236.19.100:443
+08/17/2021-03:04:34.391705  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58200 -> 203.236.19.100:443
+08/17/2021-03:04:34.664421  [**] [1:10009:1] youtube.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:32784 -> 172.217.26.46:443
+08/17/2021-03:04:46.288399  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58266 -> 203.236.19.100:443
+08/17/2021-03:04:52.288517  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58272 -> 203.236.19.100:443
+08/17/2021-03:04:57.586618  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36000 -> 23.67.53.73:80
+08/17/2021-03:04:57.618307  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36002 -> 23.67.53.73:80
+08/17/2021-03:04:58.283155  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58276 -> 203.236.19.100:443
+08/17/2021-03:04:58.463870  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:54684 -> 204.79.197.200:80
+08/17/2021-03:05:00.853346  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36004 -> 23.67.53.73:80
+08/17/2021-03:05:00.999770  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:54684 -> 204.79.197.200:80
+08/17/2021-03:05:01.166023  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:54684 -> 204.79.197.200:80
+08/17/2021-03:05:01.263184  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37130 -> 13.107.21.200:80
+08/17/2021-03:05:01.466645  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:54684 -> 204.79.197.200:80
+08/17/2021-03:05:01.502408  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37130 -> 13.107.21.200:80
+08/17/2021-03:05:01.574767  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:35998 -> 23.67.53.73:80
+08/17/2021-03:05:01.578910  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:54684 -> 204.79.197.200:80
+08/17/2021-03:05:01.620859  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37622 -> 13.107.21.200:80
+08/17/2021-03:05:01.694057  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37628 -> 13.107.21.200:80
+08/17/2021-03:05:02.021689  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37628 -> 13.107.21.200:80
+08/17/2021-03:05:02.091155  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37632 -> 13.107.21.200:80
+08/17/2021-03:05:02.096537  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:02.105480  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37632 -> 13.107.21.200:80
+08/17/2021-03:05:02.116477  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37628 -> 13.107.21.200:80
+08/17/2021-03:05:02.116779  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:02.121708  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37632 -> 13.107.21.200:80
+08/17/2021-03:05:02.126444  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:02.128945  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37628 -> 13.107.21.200:80
+08/17/2021-03:05:02.134098  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:02.134314  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37632 -> 13.107.21.200:80
+08/17/2021-03:05:02.140634  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:02.150291  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37628 -> 13.107.21.200:80
+08/17/2021-03:05:02.151845  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37632 -> 13.107.21.200:80
+08/17/2021-03:05:02.159088  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37626 -> 13.107.21.200:80
+08/17/2021-03:05:02.163046  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37624 -> 13.107.21.200:80
+08/17/2021-03:05:02.167541  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:02.167884  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37628 -> 13.107.21.200:80
+08/17/2021-03:05:02.168755  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37632 -> 13.107.21.200:80
+08/17/2021-03:05:02.179146  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37626 -> 13.107.21.200:80
+08/17/2021-03:05:02.180994  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37624 -> 13.107.21.200:80
+08/17/2021-03:05:02.185980  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:02.189235  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37632 -> 13.107.21.200:80
+08/17/2021-03:05:02.189341  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37622 -> 13.107.21.200:80
+08/17/2021-03:05:02.225323  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37628 -> 13.107.21.200:80
+08/17/2021-03:05:02.260003  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36000 -> 23.67.53.73:80
+08/17/2021-03:05:02.288487  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37624 -> 13.107.21.200:80
+08/17/2021-03:05:02.291520  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:02.298303  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37626 -> 13.107.21.200:80
+08/17/2021-03:05:02.316515  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37626 -> 13.107.21.200:80
+08/17/2021-03:05:02.318192  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:02.319361  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37628 -> 13.107.21.200:80
+08/17/2021-03:05:02.325533  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36002 -> 23.67.53.73:80
+08/17/2021-03:05:02.325818  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:02.332473  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37626 -> 13.107.21.200:80
+08/17/2021-03:05:02.333626  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:02.362469  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:02.363876  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37626 -> 13.107.21.200:80
+08/17/2021-03:05:02.368862  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37624 -> 13.107.21.200:80
+08/17/2021-03:05:02.369940  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:02.381039  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:02.382986  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37626 -> 13.107.21.200:80
+08/17/2021-03:05:02.391018  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36000 -> 23.67.53.73:80
+08/17/2021-03:05:02.395551  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37624 -> 13.107.21.200:80
+08/17/2021-03:05:02.403775  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36518 -> 23.67.53.73:80
+08/17/2021-03:05:02.415810  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37628 -> 13.107.21.200:80
+08/17/2021-03:05:02.426973  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36004 -> 23.67.53.73:80
+08/17/2021-03:05:02.459138  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:02.476163  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36516 -> 23.67.53.73:80
+08/17/2021-03:05:02.520202  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37626 -> 13.107.21.200:80
+08/17/2021-03:05:03.626955  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:52306 -> 23.101.236.158:80
+08/17/2021-03:05:04.096909  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58820 -> 51.137.102.183:80
+08/17/2021-03:05:04.283636  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58302 -> 203.236.19.100:443
+08/17/2021-03:05:04.529493  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:04.619705  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:04.622201  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37628 -> 13.107.21.200:80
+08/17/2021-03:05:04.636629  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37622 -> 13.107.21.200:80
+08/17/2021-03:05:04.639566  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37632 -> 13.107.21.200:80
+08/17/2021-03:05:04.642237  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37624 -> 13.107.21.200:80
+08/17/2021-03:05:04.650610  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37626 -> 13.107.21.200:80
+08/17/2021-03:05:04.706428  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:04.711877  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37628 -> 13.107.21.200:80
+08/17/2021-03:05:04.725290  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37622 -> 13.107.21.200:80
+08/17/2021-03:05:06.332659  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58820 -> 51.137.102.183:80
+08/17/2021-03:05:08.496548  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:52306 -> 23.101.236.158:80
+08/17/2021-03:05:08.522351  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:42608 -> 204.79.197.222:80
+08/17/2021-03:05:10.336505  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58314 -> 203.236.19.100:443
+08/17/2021-03:05:16.384385  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58318 -> 203.236.19.100:443
+08/17/2021-03:05:22.426389  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58322 -> 203.236.19.100:443
+08/17/2021-03:05:24.669729  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:24.797727  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:25.823942  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:25.875320  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36002 -> 23.67.53.73:80
+08/17/2021-03:05:25.926187  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37626 -> 13.107.21.200:80
+08/17/2021-03:05:26.010355  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:26.244815  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37630 -> 13.107.21.200:80
+08/17/2021-03:05:26.352603  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37622 -> 13.107.21.200:80
+08/17/2021-03:05:27.316516  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37626 -> 13.107.21.200:80
+08/17/2021-03:05:27.332419  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37626 -> 13.107.21.200:80
+08/17/2021-03:05:27.395172  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37668 -> 13.107.21.200:80
+08/17/2021-03:05:27.397542  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37628 -> 13.107.21.200:80
+08/17/2021-03:05:27.401679  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37670 -> 13.107.21.200:80
+08/17/2021-03:05:27.468069  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37624 -> 13.107.21.200:80
+08/17/2021-03:05:27.479493  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37622 -> 13.107.21.200:80
+08/17/2021-03:05:27.541793  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37628 -> 13.107.21.200:80
+08/17/2021-03:05:27.589281  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36000 -> 23.67.53.73:80
+08/17/2021-03:05:27.697287  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36004 -> 23.67.53.73:80
+08/17/2021-03:05:27.706216  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36002 -> 23.67.53.73:80
+08/17/2021-03:05:27.707778  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36518 -> 23.67.53.73:80
+08/17/2021-03:05:27.714449  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36516 -> 23.67.53.73:80
+08/17/2021-03:05:27.714596  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37622 -> 13.107.21.200:80
+08/17/2021-03:05:27.715858  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37624 -> 13.107.21.200:80
+08/17/2021-03:05:27.717949  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37668 -> 13.107.21.200:80
+08/17/2021-03:05:27.718739  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37628 -> 13.107.21.200:80
+08/17/2021-03:05:27.718841  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37632 -> 13.107.21.200:80
+08/17/2021-03:05:27.726362  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37628 -> 13.107.21.200:80
+08/17/2021-03:05:27.734066  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37668 -> 13.107.21.200:80
+08/17/2021-03:05:27.744006  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37670 -> 13.107.21.200:80
+08/17/2021-03:05:27.790295  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37624 -> 13.107.21.200:80
+08/17/2021-03:05:27.793429  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37628 -> 13.107.21.200:80
+08/17/2021-03:05:27.802977  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37632 -> 13.107.21.200:80
+08/17/2021-03:05:27.812377  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37622 -> 13.107.21.200:80
+08/17/2021-03:05:28.474554  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58330 -> 203.236.19.100:443
+08/17/2021-03:05:30.100100  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:37622 -> 13.107.21.200:80
+08/17/2021-03:05:30.162531  [**] [1:10027:1] bing.com TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:47730 -> 13.107.21.200:443
+08/17/2021-03:05:34.382853  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:36000 -> 23.67.53.73:80
+08/17/2021-03:05:34.525577  [**] [1:10037:1] tworld.co.kr TLS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:58348 -> 203.236.19.100:443
+08/17/2021-03:05:40.394498  [**] [1:10026:1] bing.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.50.25:35996 -> 23.67.53.73:80
